@@ -101,7 +101,7 @@ h6 {
 /* Home page */
 
 #hero {
-  background-image: url("/bootstrap/asset/image/man-cafe-racer-style-motorbike.jpg");
+  background-image: url("asset/image/man-cafe-racer-style-motorbike.jpg");
   width: 100%;
   height: 100vh;
   background-size: cover;
@@ -124,7 +124,7 @@ p {
   color: #fff;
 }
 #hero button {
-  background-image: url("/bootstrap/asset/image/dirtbike.avif");
+  background-image: url("asset/image/dirtbike.avif");
   background-color: transparent;
   color: #efff0d;
   border: 0;
@@ -301,7 +301,7 @@ p {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("/bootstrap/asset/image/SL_092920_35860_04.jpg");
+  background-image: url("asset/image/SL_092920_35860_04.jpg");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -353,14 +353,14 @@ button.normal {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("/bootstrap/asset/image/ridergirl.jpeg");
+  background-image: url("asset/image/ridergirl.jpeg");
   min-width: 580px;
   height: 50vh;
   background-size: cover;
   background-position: center;
 }
 #sm-banner .banner-box2 {
-  background-image: url("/bootstrap/asset/image/dirtbike.avif");
+  background-image: url("asset/image/dirtbike.avif");
 }
 #sm-banner h4 {
   color: #fff;
@@ -426,7 +426,7 @@ button.white {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  background-image: url(/bootstrap/asset/image/banner1.jpg);
+  background-image: url(asset/image/banner1.jpg);
   background-repeat: no-repeat;
   background-position: 20% 30%;
   background-color: rgb(13, 13, 27);
@@ -551,7 +551,7 @@ footer .copyright {
 /*bike page*/
 
 #page-header{
-  background-image: url("/bootstrap/asset/image/banner.jpg");
+  background-image: url("asset/image/banner.jpg");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -691,7 +691,7 @@ footer .copyright {
 /* About page */
 
 #page-header.about-header{
-  background-image: url("/bootstrap/asset/image/banner1.jpg");
+  background-image: url("asset/image/banner1.jpg");
 }
 #about-head{
   display: flex;
@@ -787,7 +787,7 @@ footer .copyright {
   color: #fff;
 }
 #form-details form button{
-  background-image: url("/bootstrap/asset/image/dirtbike.avif");
+  background-image: url("asset/image/dirtbike.avif");
   background-color: transparent;
   color: #dadbca;
   border: 0;
