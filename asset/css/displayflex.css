@@ -1,0 +1,27 @@
+.container{
+    height: 500px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    /* row,row-reverse,column,column-reverse */
+    justify-content: center;
+    /* center,start,end,space-around,space-between,space-evenly */
+    flex-wrap: wrap;
+    align-items: flex-end;
+    /* center,flex-start,flex-end */
+}
+.one,.two,.three{
+    background-color: orange;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.one{
+    order: 2
+}
+.two{
+    order: 1
+}
+.three{
+    order: 3
+}
